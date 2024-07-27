@@ -1,4 +1,4 @@
-name = "amazon1" # todo
+name = "alibaba2" # todo
 #name = "cf-worker-connect-test" # todo
 #main = "test/worker/cf-cdn-cgi-trace2.js"
 #main = "test/worker/worker-connect-test.js"
@@ -12,4 +12,4 @@ compatibility_date = "2023-05-26"
 # NODE_ID = "1"
 # API_TOKEN = "example_dev_token"
 # API_HOST = "api.v2board.com"
-UUID = "f1e2a68d-aa80-4b16-a9ae-825e719b9c09"
+UUID = "1f09a42c-0478-4752-acd3-4d9f571a386b"
