@@ -1,4 +1,4 @@
-name = "utilities" # todo
+name = "gcore" # todo
 #name = "cf-worker-connect-test" # todo
 #main = "test/worker/cf-cdn-cgi-trace2.js"
 #main = "test/worker/worker-connect-test.js"
@@ -12,4 +12,4 @@ compatibility_date = "2023-05-26"
 # NODE_ID = "1"
 # API_TOKEN = "example_dev_token"
 # API_HOST = "api.v2board.com"
-UUID = "0f0f01b6-fe1b-4ffe-a8d5-f042c1046e76"
+UUID = "5d5ddbf1-f01b-47bb-b3c7-5e42ac6407f7"
