@@ -1,4 +1,4 @@
-name = "lin1" # todo
+name = "sgdo-ca" # todo
 #name = "cf-worker-connect-test" # todo
 #main = "test/worker/cf-cdn-cgi-trace2.js"
 #main = "test/worker/worker-connect-test.js"
@@ -12,4 +12,4 @@ compatibility_date = "2023-05-26"
 # NODE_ID = "1"
 # API_TOKEN = "example_dev_token"
 # API_HOST = "api.v2board.com"
-UUID = "7e3e7fcc-cbf1-4c2f-8ce2-e1f586b24ea5"
+UUID = "c9556743-1036-4c90-ae31-83162cb3bf76"
