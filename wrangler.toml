@@ -1,4 +1,4 @@
-name = "zenlayer" # todo
+name = "constant" # todo
 #name = "cf-worker-connect-test" # todo
 #main = "test/worker/cf-cdn-cgi-trace2.js"
 #main = "test/worker/worker-connect-test.js"
@@ -12,4 +12,4 @@ compatibility_date = "2023-05-26"
 # NODE_ID = "1"
 # API_TOKEN = "example_dev_token"
 # API_HOST = "api.v2board.com"
-UUID = "7c264614-8a3a-405e-a13d-9b6b2a582cf9"
+UUID = "e608981c-a4ac-403f-9744-d15573684fe5"
