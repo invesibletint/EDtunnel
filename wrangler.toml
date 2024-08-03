@@ -1,4 +1,4 @@
-name = "atlantic" # todo
+name = "godaddy" # todo
 #name = "cf-worker-connect-test" # todo
 #main = "test/worker/cf-cdn-cgi-trace2.js"
 #main = "test/worker/worker-connect-test.js"
@@ -12,4 +12,4 @@ compatibility_date = "2023-05-26"
 # NODE_ID = "1"
 # API_TOKEN = "example_dev_token"
 # API_HOST = "api.v2board.com"
-UUID = "0971c085-8a81-40e2-b715-46a7c1636ea6"
+UUID = "4294b835-7faf-447d-ba79-856d3c404408"
