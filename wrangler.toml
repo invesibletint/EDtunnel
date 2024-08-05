@@ -1,4 +1,4 @@
-name = "do-us" # todo
+name = "registra" # todo
 #name = "cf-worker-connect-test" # todo
 #main = "test/worker/cf-cdn-cgi-trace2.js"
 #main = "test/worker/worker-connect-test.js"
@@ -12,4 +12,4 @@ compatibility_date = "2023-05-26"
 # NODE_ID = "1"
 # API_TOKEN = "example_dev_token"
 # API_HOST = "api.v2board.com"
-UUID = "7f200efc-14f8-48f0-beae-1bd1b1575c79"
+UUID = "c7a4ab7b-093c-4207-92e1-2c1af3ae6e65"
