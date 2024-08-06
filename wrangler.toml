@@ -1,4 +1,4 @@
-name = "registra" # todo
+name = "huawai" # todo
 #name = "cf-worker-connect-test" # todo
 #main = "test/worker/cf-cdn-cgi-trace2.js"
 #main = "test/worker/worker-connect-test.js"
@@ -12,4 +12,4 @@ compatibility_date = "2023-05-26"
 # NODE_ID = "1"
 # API_TOKEN = "example_dev_token"
 # API_HOST = "api.v2board.com"
-UUID = "c7a4ab7b-093c-4207-92e1-2c1af3ae6e65"
+UUID = "63e85a46-237a-4965-8d77-e450a29503ec"
