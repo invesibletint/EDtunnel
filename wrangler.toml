@@ -1,4 +1,4 @@
-name = "microsoft" # todo
+name = "akamai-za" # todo
 #name = "cf-worker-connect-test" # todo
 #main = "test/worker/cf-cdn-cgi-trace2.js"
 #main = "test/worker/worker-connect-test.js"
@@ -12,4 +12,4 @@ compatibility_date = "2023-05-26"
 # NODE_ID = "1"
 # API_TOKEN = "example_dev_token"
 # API_HOST = "api.v2board.com"
-UUID = "c624b937-95cd-408a-afa5-e470fdc6fa84"
+UUID = "55ee0076-20a3-4eca-ad82-052798f0c18e"
