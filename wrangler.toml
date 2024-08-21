@@ -1,4 +1,4 @@
-name = "telecom" # todo
+name = "in-do" # todo
 #name = "cf-worker-connect-test" # todo
 #main = "test/worker/cf-cdn-cgi-trace2.js"
 #main = "test/worker/worker-connect-test.js"
@@ -12,4 +12,4 @@ compatibility_date = "2023-05-26"
 # NODE_ID = "1"
 # API_TOKEN = "example_dev_token"
 # API_HOST = "api.v2board.com"
-UUID = "9ff7ab97-7757-4f51-be04-5dcfdab38ad3"
+UUID = "ae7dbd91-8687-4f45-93c4-ee045926893d"
