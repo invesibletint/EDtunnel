@@ -1,4 +1,4 @@
-name = "zon-india" # todo
+name = "gcp-india" # todo
 #name = "cf-worker-connect-test" # todo
 #main = "test/worker/cf-cdn-cgi-trace2.js"
 #main = "test/worker/worker-connect-test.js"
@@ -12,4 +12,4 @@ compatibility_date = "2023-05-26"
 # NODE_ID = "1"
 # API_TOKEN = "example_dev_token"
 # API_HOST = "api.v2board.com"
-UUID = "37343037-d5fe-429d-ba93-d56be74ca004"
+UUID = "6bda3d84-9023-4d49-8c86-af378e0492da"
