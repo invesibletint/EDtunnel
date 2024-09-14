@@ -1,4 +1,4 @@
-name = "google-id" # todo
+name = "hk-bgpnet" # todo
 #name = "cf-worker-connect-test" # todo
 #main = "test/worker/cf-cdn-cgi-trace2.js"
 #main = "test/worker/worker-connect-test.js"
@@ -12,4 +12,4 @@ compatibility_date = "2023-05-26"
 # NODE_ID = "1"
 # API_TOKEN = "example_dev_token"
 # API_HOST = "api.v2board.com"
-UUID = "728e6c5e-7db8-4c16-acbb-c89d046913d3"
+UUID = "fb027861-fff2-4a2a-b618-de6c8234011d"
