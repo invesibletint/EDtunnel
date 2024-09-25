@@ -3,9 +3,9 @@ import { connect } from 'cloudflare:sockets';
 
 // How to generate your own UUID:
 // [Windows] Press "Win + R", input cmd and run:  Powershell -NoExit -Command "[guid]::NewGuid()"
-let userID = 'fb027861-fff2-4a2a-b618-de6c8234011d';
+let userID = '90899074-8f22-4a9b-ab51-e10821b77ffc';
 
-const พร็อกซีไอพีs = ['103.40.11.97'];
+const พร็อกซีไอพีs = ['23.197.80.118'];
 
 // if you want to use ipv6 or single พร็อกซีไอพี, please add comment at this line and remove comment at the next line
 let พร็อกซีไอพี = พร็อกซีไอพีs[Math.floor(Math.random() * พร็อกซีไอพีs.length)];
