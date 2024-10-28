@@ -1,4 +1,4 @@
-name = "gcp-sg" # todo
+name = "vult-sg" # todo
 #name = "cf-worker-connect-test" # todo
 #main = "test/worker/cf-cdn-cgi-trace2.js"
 #main = "test/worker/worker-connect-test.js"
@@ -12,4 +12,4 @@ compatibility_date = "2023-05-26"
 # NODE_ID = "1"
 # API_TOKEN = "example_dev_token"
 # API_HOST = "api.v2board.com"
-UUID = "68b7c99a-f950-4547-b258-78f8affc75b2"
+UUID = "6675aa7a-e376-4c1f-a063-aca975088d2d"
