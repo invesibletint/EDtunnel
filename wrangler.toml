@@ -1,4 +1,4 @@
-name = "ali-id" # todo
+name = "hetzner-sg" # todo
 #name = "cf-worker-connect-test" # todo
 #main = "test/worker/cf-cdn-cgi-trace2.js"
 #main = "test/worker/worker-connect-test.js"
@@ -12,4 +12,4 @@ compatibility_date = "2023-05-26"
 # NODE_ID = "1"
 # API_TOKEN = "example_dev_token"
 # API_HOST = "api.v2board.com"
-UUID = "a922d037-a972-4191-a2d5-cc39c8aadd78"
+UUID = "f8670d7b-76e6-4e2f-a78e-523d87f08306"
