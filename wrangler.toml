@@ -1,4 +1,4 @@
-name = "onidel-sg" # todo
+name = "atlantic-uk" # todo
 #name = "cf-worker-connect-test" # todo
 #main = "test/worker/cf-cdn-cgi-trace2.js"
 #main = "test/worker/worker-connect-test.js"
@@ -12,4 +12,4 @@ compatibility_date = "2023-05-26"
 # NODE_ID = "1"
 # API_TOKEN = "example_dev_token"
 # API_HOST = "api.v2board.com"
-UUID = "8151861a-556d-405d-b908-a4c3832fc265"
+UUID = "ef01bdd3-1ef5-4321-8b5c-c3f33fbf047d"
